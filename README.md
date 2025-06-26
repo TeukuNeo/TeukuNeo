@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mysql,django,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,nodejs,mysql,django,laravel,express,git&perline=6)](https://skillicons.dev)
 
 
 ### Connect With Me😅
