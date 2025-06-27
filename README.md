@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Self Project
 - 🌱 I’m currently learning React & NextJS
 
-### Skills
+#### Skills ⚙️⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,nodejs,mysql,django,laravel,express,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,nodejs,django,laravel,express,mysql,git&perline=6)](https://skillicons.dev)
 
 
-### Connect With Me😅
+#### Connect With Me🌐🔗
 ![https://www.instagram.com/teukuneo/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![]
+![https://www.linkedin.com/in/teuku-neo-708935292/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
