@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Self Project
 - 🌱 I’m currently learning React & NextJS
+- 💬 Ask me about Frontend Solution
+- 📫 How to reach me: You can Follow My Social Media
+- ⚡ Fun fact: My Interest Beside Programming is Reading & Playing Music
 
 ---
 
