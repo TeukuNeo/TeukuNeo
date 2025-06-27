@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/teuku-neo-708935292/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
 </a>
+<a href="https://www.youtube.com/@teukuneo">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
 
 #### My Github Stats 📈
 ![Teuku Neo GitHub stats](https://github-readme-stats.vercel.app/api?username=TeukuNeo&show_icons=true&theme=radical)
