@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Self Project
 - 🌱 I’m currently learning React & NextJS
 
-#### Skills ⚙️⚒️
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,figma,nodejs,django,laravel,express,mysql,git&perline=7)](https://skillicons.dev)
+### ⚙️Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,figma,webflow,nodejs,express,python,django,php,laravel,mysql,git&perline=8)](https://skillicons.dev)
 
-#### Connect With Me🌐🔗
+---
+
+### 🌐Connect With Me:
 <a href="https://www.instagram.com/teukuneo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
 </a>
@@ -39,5 +42,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 
-#### My Github Stats 📈
-![Teuku Neo GitHub stats](https://github-readme-stats.vercel.app/api?username=TeukuNeo&show_icons=true&theme=radical)
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TeukuNeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TeukuNeo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeukuNeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
