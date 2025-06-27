@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/teuku-neo-708935292/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
 </a>
-<a href="pandogamers@gmail.com">
+<a href="mailto:pandogamers@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.youtube.com/@teukuneo">
