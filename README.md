@@ -1,4 +1,4 @@
-## Hi Fellas I'm Teuku Neo 👋
+# Hi Fellas I'm Teuku Neo 👋
 
 ![Teuku Neo](./img/github-header-image.png)
 
