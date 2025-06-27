@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 
 
 #### Connect With Me🌐🔗
-![https://www.instagram.com/teukuneo/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/teuku-neo-708935292/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.instagram.com/teukuneo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+<a href="https://www.linkedin.com/in/teuku-neo-708935292/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+</a>
