@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### ⚙️Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,figma,webflow,nodejs,express,python,django,php,laravel,mysql,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,next,tailwind,figma,webflow,illustrator,photoshop,nodejs,express,mongodb,prisma,mysql,git,vercel&perline=9)](https://skillicons.dev)
 
 ---
 
